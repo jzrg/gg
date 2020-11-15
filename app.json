@@ -1,0 +1,14 @@
+{
+    "name": "GG",
+    "description": "Deploy GG",
+    "keywords": ["GG"],
+    "env": {
+        "UUID": {
+            "description": "VB UUID",
+            "value": "xxx-xxx-xxx-xxx-xxx"
+        }
+    },
+    "website": "https://github.com/jzrg/gg",
+    "repository": "https://github.com/jzrg/gg",
+    "stack": "container"
+}
